@@ -13,3 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267" alt="html" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.css.com" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242" alt="css" width="40" height="40"/> </a> </p>
+
+                                                                                    
